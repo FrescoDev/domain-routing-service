@@ -5,7 +5,7 @@ This service is responsible for SERVICE_PURPOSE.
 DEV URL: [tbd]
 LIVE URL: [tbd]
 
-[![Build Status](url)](url)
+[![Build Status](https://travis-ci.org/FrescoDev/domain-routing-service.svg?branch=master)](https://travis-ci.org/FrescoDev/domain-routing-service)
 
 ### Prerequisities
 
