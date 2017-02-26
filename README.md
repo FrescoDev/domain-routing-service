@@ -2,8 +2,8 @@
 
 This service is responsible for performing semantic disambiguation on inbound messages and establishing service domain intent of message. 
 
-DEV URL: [tbd]
-LIVE URL: [tbd]
+* DEV URL: [https://d-domain-routing-service.herokuapp.com/]
+* LIVE URL: [https://domain-routing-service.herokuapp.com/]
 
 [![Build Status](https://travis-ci.org/FrescoDev/domain-routing-service.svg?branch=master)](https://travis-ci.org/FrescoDev/domain-routing-service)
 
