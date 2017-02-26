@@ -4,7 +4,7 @@ const probabilisticDomainDisambiguator = (message) => {
 
     let domain = new Domain();
 
-    if (message.contains('weather')) {
+    if (message.contains('weather ')) {
 
         domain.exists = true
         domain.name = 'WEATHER_QUERY'
