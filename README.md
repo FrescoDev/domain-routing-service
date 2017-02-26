@@ -1,6 +1,6 @@
 # domain-routing-service
 
-This service is responsible for SERVICE_PURPOSE. 
+This service is responsible for performing semantic disambiguation on inbound messages and establishing service domain intent of message. 
 
 DEV URL: [tbd]
 LIVE URL: [tbd]
