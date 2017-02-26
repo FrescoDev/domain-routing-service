@@ -7,10 +7,8 @@ class DomainRouter {
     const content = req.body.content
 
     let message = new Message(content)
-    console.log(message)
     let domain = deterministicDomainDisambiguator(message)
-    console.log(domain)
-    
+
     if (domain.exists) {
       return domain.name
     } else {
